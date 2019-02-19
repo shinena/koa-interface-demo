@@ -10,4 +10,6 @@ module.exports = app => {
   router.get('/banner', Controller.banner)
 
   router.get('/recommend', Controller.recommend)
+
+  router.post('/count', Controller.count)
 }

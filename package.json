@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "chalk": "^2.4.1",
+    "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
-    "koa2": "^2.0.0-alpha.7"
+    "koa2": "^2.0.0-alpha.7",
+    "koa2-cors": "^2.0.6"
   }
 }
